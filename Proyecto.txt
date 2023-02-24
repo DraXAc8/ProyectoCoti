@@ -1,0 +1,25 @@
+El proyecto trata de una empresa de seguros (TK-U) pide un programa con ciertas caracteristicas para poder dar un precio razonable hacia el seguro que este adquiriendo.
+Pide que el sujeto sea mayor de edad, en Guatemala una persona se considera adulta o mayor de edad a la edad de 18 años, cumpliendo el primer paso.
+Como segundop paso preguntamos al sujeto cual es su sueldo, si es casado, si es casado que edad tiene la pareja, si tiene hijos o no, si tiene hijos que edad y cuantos hijos tiene la pareje.
+En base a estos datos se le hace un recargo de acuerdo a los datos dados por el sujeto.
+Despues se le ofrece asegurar sus bienes materiales agg un recargo extra.-
+
+Básicamente es lo que se nos pide realizar en el programa...
+
+Algoritmo.
+
+1. Preguntar la edad de la persona 
+	i- >18 se sigue el programa
+	ii- <18 se reinicia el programa
+2. Si la persona es casada
+	i- si, agg porcentaje extra
+	ii- no, siguiente pregunta
+3. si la persona tiene hijos
+	i- si, agg porcentaje extra por hijo
+	ii- No. siguiente pregunta
+4. Si quiere asegurar bienes materiales
+	i- si, agg procentaje extra por bienes materiales.
+5- Daler al sujeto una cotizacion, detallando el por que de cada porcentaje.
+
+
+Pido Disculpas por subirlo de esta manera pero tuve problemas a la hora de subirlo al github.
